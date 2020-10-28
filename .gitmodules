@@ -1,3 +1,3 @@
-[submodule "tmux-gruvbox"]
-	path = tmux-gruvbox
-	url = https://github.com/egel/tmux-gruvbox/
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
